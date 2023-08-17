@@ -1,1 +1,1 @@
-# SeSAC_Finacial_data
+# 새싹영등포 5기 금융데이터분석가 양성과정
